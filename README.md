@@ -30,12 +30,10 @@ The program runs in the command line and supports the following commands:
 
 1. Open Command Prompt
 
-2. Navigate to the project folder:
-cd Desktop
-cd Problem35
+2. Navigate to the project folder
 
 3. Compile the program:
 javac LoadBalancer.java
 
 4. Run the program:
-java LoadBalancer
+java LoadBalancer  
