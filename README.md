@@ -32,8 +32,6 @@ The program runs in the command line and supports the following commands:
 
 2. Navigate to the project folder:
 cd Desktop
-cd "DSA Project"
-cd DSAQ
 cd Problem35
 
 3. Compile the program:
